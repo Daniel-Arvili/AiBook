@@ -21,7 +21,7 @@ const monaSans=Mona_Sans({
 
 export const metadata: Metadata = {
   title: "AiBook",
-  description: "Transform yourbooks into interactive AI-powered conversations.upload your PDF, get instant summaries, and chat with your AI companion.",
+  description: "Transform your books into interactive AI-powered conversations.upload your PDF, get instant summaries, and chat with your AI companion.",
 };
 
 export default function RootLayout({
